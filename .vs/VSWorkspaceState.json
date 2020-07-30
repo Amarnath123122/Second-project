@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\telusko",
+    "\\telusko\\accounts",
+    "\\telusko\\static",
+    "\\telusko\\telusko",
+    "\\telusko\\telusko\\__pycache__",
+    "\\telusko\\templates",
+    "\\telusko\\travello",
+    "\\telusko\\travello\\migrations",
+    "\\telusko\\travello\\migrations\\__pycache__"
+  ],
+  "SelectedNode": "\\telusko\\travello\\urls.py",
+  "PreviewInSolutionExplorer": false
+}
